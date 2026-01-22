@@ -1,2 +1,26 @@
-# School Management Dashboard UI 
-# 🏫 School Management Dashboard UI A responsive **School Management Dashboard** built with **Next.js** and **React**. This project demonstrates a modern admin interface for managing students, teachers, classes, and activities with a clean and professional design. --- ## ✨ Features - 📊 **Dashboard Overview** – Key metrics and charts for school management. - 👩‍🏫 **Teacher Management** – Add, edit, and view teacher details. - 👨‍🎓 **Student Management** – Manage student records and class assignments. - 📅 **Class Scheduling** – Organize classes and timetables. - 📱 **Responsive Design** – Works seamlessly across desktop, tablet, and mobile. - 🎨 **Modern UI** – Styled with Tailwind CSS for a sleek look. --- ## 🛠️ Tech Stack - **Framework**: [Next.js](https://nextjs.org/) - **Library**: [React](https://react.dev/) - **Styling**: [Tailwind CSS](https://tailwindcss.com/) - **Charts**: [Chart.js](https://www.chartjs.org/) or similar - **Icons**:
+# 🏫 School Management Dashboard UI
+
+A responsive **School Management Dashboard** built with **Next.js** and **React**.  
+This project demonstrates a modern admin interface for managing students, teachers, classes, and activities with a clean and professional design.
+
+---
+
+## ✨ Features
+- 📊 **Dashboard Overview** – Key metrics and charts for school management.
+- 👩‍🏫 **Teacher Management** – Add, edit, and view teacher details.
+- 👨‍🎓 **Student Management** – Manage student records and class assignments.
+- 📅 **Class Scheduling** – Organize classes and timetables.
+- 📱 **Responsive Design** – Works seamlessly across desktop, tablet, and mobile.
+- 🎨 **Modern UI** – Styled with Tailwind CSS for a sleek look.
+
+---
+
+## 🛠️ Tech Stack
+- **Framework**: [Next.js](https://nextjs.org/)  
+- **Library**: [React](https://react.dev/)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+- **Charts**: [Chart.js](https://www.chartjs.org/) or similar  
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
+
+---
+
